@@ -56,9 +56,9 @@ education:
 projects:
     title: Projects
     assignments:
-      - title: Conference Landing Page proyect
+      - title: Conference Landing Page 
         link: "https://stefanygonzalezleon.github.io/conference-landing-page"
-        tagline: ""
+        tagline: "It is a project where starting from only a screenshot of a page I had to match or assimilate the design and interface of that page"
       
       - title: Fishbowl
         link: "https://es.khanacademy.org/computer-programming/derivado-de-proyecto-pecera-el-verdadero-pez/4861627090386944"
@@ -73,7 +73,7 @@ publications:
     papers:
       - title: Responsive Web Design & JavaScript Algorithms and Data Structures
         link: "https://www.freecodecamp.org/stefanyPROgjr"
-        authors: Feb 2022 - Present
+        authors: Feb 2022 
         conference: FreeCodeCamp
 
       - title: Introduction to Web Design
