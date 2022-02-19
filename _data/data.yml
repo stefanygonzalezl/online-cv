@@ -32,7 +32,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Intermediate
 
     interests:
       - item: Programming
@@ -46,32 +46,42 @@ career-profile:
     summary: |
       I'm passionate about the design of interactive web pages. I have experience using HTML, CSS, Javascript and some design tools. I'm still learning to code and I hope to gain more experience.
 education:
-    - degree: Technical Bachelor in Software Development
-      university: Cincinnatus Institute of Craftsmanship
-      time: 2021 - Present
+    - degree: English Immersion Program For Competitiveness
+      university: MESCYT
+      time: Feb 2022 - Present
+    
     - degree: Technical Bachelor in Networking and Computer Systems
       university: Politécnico Monseñor Juan Antonio Flores
       time: 2015 - 2021
 projects:
     title: Projects
     assignments:
+      - title: Conference Landing Page proyect
+        link: "https://stefanygonzalezleon.github.io/conference-landing-page"
+        tagline: ""
+      
       - title: Fishbowl
-        link: "#"
+        link: "https://es.khanacademy.org/computer-programming/derivado-de-proyecto-pecera-el-verdadero-pez/4861627090386944"
         tagline: "It is a project where I played with the functions and click events to make a ads design with movement."
-
+      
       - title: Up Kitty
-        link: "#"
+        link: "https://es.khanacademy.org/computer-programming/arriba-gatico/5837817628278784"
         tagline: "It is a project where I played with the color, the size, and the position to make a ads design with movement."
 
 publications:
     title: Certifications
     papers:
-      - title: Diseño de paginas web
+      - title: Responsive Web Design & JavaScript Algorithms and Data Structures
+        link: "https://www.freecodecamp.org/stefanyPROgjr"
+        authors: Feb 2022 - Present
+        conference: FreeCodeCamp
+
+      - title: Introduction to Web Design
         link: "https://aulavirtual.ctc.edu.do/validar-certificado/NzMwMjc2"
         authors: June 2021
         conference: Centros Tecnológicos Comunitarios
 
-      - title: Vectoriza tus ideas con Illustrator
+      - title: Vectorize Your Ideas with Illustrator
         link: "https://aulavirtual.ctc.edu.do/validar-certificado/3VlwUO0HAh"
         authors: May 2021
         conference: Centros Tecnológicos Comunitarios
