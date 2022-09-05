@@ -106,7 +106,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5, CSS3 & Javascript 
+      - name: HTML5, CSS3 & JS 
         level: 90%
 
       - name: React.js & Node.js 
@@ -118,7 +118,7 @@ skills:
       - name: Git & Github
         level: 70%
 
-      - name: Adobe XD & Adobe Illustrator
+      - name: Figma & Adobe Illustrator
         level: 60%
 
 footer: >
