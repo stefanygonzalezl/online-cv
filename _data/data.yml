@@ -46,6 +46,7 @@ career-profile:
     summary: |
       I'm passionate about the design of interactive web pages. I have experience using HTML, CSS, Javascript and some design tools. I'm still learning to code and I hope to gain more experience.
 education:
+
     - degree: English Immersion Program For Competitiveness
       university: MESCYT
       time: Feb 2022 - Present
@@ -53,26 +54,41 @@ education:
     - degree: Technical Bachelor in Networking and Computer Systems
       university: Politécnico Monseñor Juan Antonio Flores
       time: 2015 - 2021
+      
 projects:
     title: Projects
     assignments:
-      - title: Conference Landing Page 
-        link: "https://stefanygonzalezleon.github.io/conference-landing-page"
-        tagline: "It is a project where starting from only a screenshot of a page I had to match or assimilate the design and interface of that page"
+      - title: Ghibli songs player 
+        link: "https://github.com/stefanygonzalezleon/ghibli-songs-player"
+        tagline: "Gibli inspired song player & server."
+
+      - title: Poke api switch 
+        link: "https://github.com/stefanygonzalezleon/poke-api-switch"
+        tagline: "Switch console with PokeApi actions."
       
-      - title: Fishbowl
-        link: "https://es.khanacademy.org/computer-programming/derivado-de-proyecto-pecera-el-verdadero-pez/4861627090386944"
-        tagline: "It is a project where I played with the functions and click events to make a ads design with movement."
+      - title: Pokedex form table
+        link: "https://github.com/stefanygonzalezleon/pokedex-form-table"
+        tagline: "A form that stores data in a table. Pokedex-inspired design."
       
-      - title: Up Kitty
-        link: "https://es.khanacademy.org/computer-programming/arriba-gatico/5837817628278784"
-        tagline: "It is a project where I played with the color, the size, and the position to make a ads design with movement."
+      - title: Mario slot machine
+        link: "https://github.com/stefanygonzalezleon/mario-slot-machine"
+        tagline: "Mario inspired lottery slot machine."
 
 publications:
     title: Certifications
     papers:
-      - title: Responsive Web Design & JavaScript Algorithms and Data Structures
-        link: "https://www.freecodecamp.org/stefanyPROgjr"
+      - title: Bootcamp - Web development with MERN
+        link: "https://talendig.com/tlndg-bcwbmern-22-0005/"
+        authors: Aug 2022 
+        conference: Talendig
+
+      - title: Responsive Web Design 
+        link: "https://www.freecodecamp.org/certification/stefanyPROgjr/responsive-web-design"
+        authors: Feb 2022 
+        conference: FreeCodeCamp
+
+      - title: JavaScript Algorithms and Data Structures
+        link: "https://www.freecodecamp.org/certification/stefanyPROgjr/javascript-algorithms-and-data-structures"
         authors: Feb 2022 
         conference: FreeCodeCamp
 
@@ -90,14 +106,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5 & CSS3
-        level: 80%
+      - name: HTML5, CSS3 & Javascript 
+        level: 90%
 
-      - name: Javascript & Node.js
+      - name: React.js & Node.js 
+        level: 60%
+
+      - name:  SQL & MongoDB
         level: 50%
+        
+      - name: Git & Github
+        level: 70%
 
       - name: Adobe XD & Adobe Illustrator
-        level: 30%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
